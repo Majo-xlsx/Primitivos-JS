@@ -42,9 +42,7 @@ Este repositorio contiene ejercicios básicos en JavaScript sobre variables, ent
 
 ---
 
-### 4. Bucle while  
-(archivo pendiente)
-
+### 4. Bucle while  ('while.js')
 - **Ejercicio 1:**  
   - Pedir un número con `prompt()`.  
   - Usar un `while` para contar desde 1 hasta ese número.
@@ -56,9 +54,7 @@ Este repositorio contiene ejercicios básicos en JavaScript sobre variables, ent
 
 ---
 
-### 5. Bucle for  
-(archivo pendiente)
-
+### 5. Bucle for  ('for.js')
 - **Ejercicio 1:**  
   - Usar `for` para imprimir los números del 1 al 10.
 
